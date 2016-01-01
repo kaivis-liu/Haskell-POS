@@ -1,5 +1,7 @@
 # Haskell-POS
-Pizza-point-sales-order-system using haskell
+
+hello!
+this is a haskell project for my course, i call it Pizza-point-sales-order-system using haskell
 
 程序执行步骤：
 
